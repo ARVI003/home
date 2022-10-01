@@ -1,0 +1,417 @@
+@media (max-width: 1440px) {
+    .container{
+        width: 90%;
+    }
+
+    .blockchain-card {
+        margin-left: -63px;
+    }
+
+    #hero {
+        height: 1088px;
+    }
+
+    nav {
+        padding-top: 168px;
+        margin-bottom: 334px;
+    }
+
+    .blockchain-lin {
+        margin: 0 20px;
+    }
+
+    .header a{
+        margin-left: 549px;
+    }
+
+}
+
+@media (max-width: 1200px) {
+    .container {
+        width: 90%;
+    }
+
+    #hero {
+        position: absolute;
+    }
+
+    header button {
+        display: none;
+    }
+
+    .header a {
+        margin-left: 65px;
+    }
+
+
+    .ok input {
+        left: 560px;
+        top: 26px;
+    }
+
+
+    .blockchain {
+        flex-direction: column;
+    }
+
+    .blockchain-card {
+        margin-left: 4px;
+        margin-bottom: 48px;
+    }
+
+
+    .arvi {
+        margin-top: 478px;
+        flex-direction: column;
+    }
+
+    .see {
+        margin-top: 419px;
+    }
+
+    #hero {
+        height: 1977px;
+    }
+
+    nav {
+        padding-top: 224px;
+        margin-bottom: 735px;
+    }
+
+    .nav-item {
+        margin-bottom: 158px;
+    }
+
+}
+
+@media (max-width: 1024px) {
+    .container{
+        width: 90%;
+    }
+}
+
+@media (max-width: 992px) {
+    .container{
+        width: 90%;
+    }
+}
+
+@media (max-width: 768px) {
+    .container{
+        width: 90%;
+    }
+
+    #hero {
+        display: none;
+    }
+
+    main {
+        margin-left: -3px;
+    }
+
+    .ok input {
+        left: 279px;
+    }
+
+
+}
+
+@media (max-width: 576px) {
+    .container{
+        width: 90%;
+    }
+
+    .beer {
+        display: none;
+    }
+
+    .ok input {
+        left: 279px;
+        top: 8px;
+    }
+
+    .blockchain-card {
+        width: 550px;
+        height: 525px;
+        flex-direction: column;
+        padding: 20px 0;
+    }
+
+    .blockchain-texts {
+        text-align: center;
+    }
+
+    .sal1 {
+        margin: 6px 0 0 33px;
+    }
+
+    .sal2 {
+        margin: -100px 0 0 509px;
+    }
+
+    .sal3 {
+        margin: 17px 0 0 116px;
+    }
+
+    .sal4 {
+        margin: -120px 0 0 294px;
+    }
+
+    .sal5 {
+        margin: 22px 0 0 185px;
+    }
+
+    .sal7 {
+        margin: -128px 0 0 448px;
+    }
+
+    .shoto{
+        width: 90%;
+    }
+
+    .blockchain-lin {
+        width: 553px;
+        height: 271px;
+    }
+
+    .card-top {
+        margin-left: 62px;
+    }
+
+    .card-bottom ul li {
+        line-height: 27px;
+    }
+
+    .market {
+        width: 534px;
+    }
+
+    .find {
+        width: 493px;
+    }
+
+    .rio {
+        flex-direction: column;
+    }
+
+
+    .reno {
+        margin-bottom: 33px;
+    }
+
+    .mild {
+        flex-direction: column;
+    }
+
+    .aunt {
+        margin-bottom: 37px;
+    }
+
+
+
+
+
+
+
+}
+
+@media (max-width: 450px) {
+    .container{
+        width: 90%;
+    }
+
+    .header {
+        margin-left: -97px;
+    }
+
+    .ok input {
+        left: 170px;
+    }
+
+    .blockchain-card {
+        width: 415px;
+    }
+
+    .sal2 {
+        margin: -90px 0 0 385px;
+    }
+
+    .sal7 {
+        margin: -128px 0 0 337px;
+    }
+
+    .sal4 {
+        margin: -120px 0 0 232px;
+    }
+
+
+    .blockchain-lin {
+        width: 421px;
+        height: 222px;
+    }
+
+    .card-bottom ul li {
+        line-height: 20px;
+    }
+
+
+    .market-nino {
+        flex-direction: column;
+    }
+
+    .market {
+        width: 419px;
+    }
+
+    .find {
+        width: 372px;
+        height: 171px;
+    }
+
+    .do-nino {
+        margin-top: 15px;
+    }
+
+    .do-nino p {
+        margin-bottom: 9px;
+    }
+
+}
+
+@media (max-width: 425px) {
+    .container{
+        width: 90%;
+    }
+}
+
+@media (max-width: 380px) {
+    .container{
+        width: 90%;
+    }
+
+    .ok input {
+        left: 134px;
+    }
+
+    .blockchain-card {
+        width: 351px;
+    }
+
+    .blockchain-lin {
+        width: 352px;
+        height: 213px;
+    }
+
+    .card-top label {
+        margin-left: -58px;
+
+    }
+
+    .card-bottom ul li {
+        line-height: 17px;
+    }
+
+    .market {
+        width: 358px;
+    }
+
+    .find {
+        width: 311px;
+        height: 161px;
+    }
+
+    .do-nino p {
+        margin-bottom: 5px;
+    }
+
+    .seen {
+        margin-left: 0;
+    }
+
+    .sal2 {
+        display: none;
+    }
+
+    .sal7 {
+        display: none;
+    }
+
+    .sal4 {
+        margin: -120px 0 0 199px;
+    }
+
+
+
+}
+
+@media (max-width: 370px) {
+    .container{
+        width: 90%;
+    }
+}
+
+@media (max-width: 320px) {
+    .container{
+        width: 90%;
+    }
+
+    .ok input {
+        left: 106px;
+        width: 162px;
+    }
+
+    .blockchain-card {
+        width: 293px;
+    }
+
+    .blockchain-lin {
+        width: 298px;
+        height: 197px;
+    }
+
+    .market {
+        width: 303px;
+    }
+
+    .market-name {
+        font-size: 13px;
+        line-height: 29px;
+    }
+
+    .market-name3 img {
+        margin-left: 3px;
+    }
+
+    .find {
+        width: 261px;
+        height: 161px;
+    }
+
+    .rio {
+        margin-top: -101px;
+    }
+
+    .seen {
+        width: 256px;
+    }
+
+    .worm {
+        width: 255px;
+    }
+
+    .Github {
+        margin: 8px 0 0 90px;
+    }
+
+    .card-bottom ul li {
+        line-height: 15px;
+    }
+
+    .do-nino p {
+        margin-bottom: 2px;
+    }
+
+
+}
+
+
